@@ -1,0 +1,8 @@
+{
+  "name": "متاهة نافس المتكاملة",
+  "description": "لعبة تعليمية تفاعلية للمراجعة والتدريب على اختبارات نافس الوطنية في العلوم والرياضيات والقراءة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
